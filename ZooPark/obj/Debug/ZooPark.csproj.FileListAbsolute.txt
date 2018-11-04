@@ -1,0 +1,17 @@
+C:\Users\dulck\source\repos\ZooPark\ZooPark\bin\Debug\ZooPark.exe.config
+C:\Users\dulck\source\repos\ZooPark\ZooPark\bin\Debug\ZooPark.exe
+C:\Users\dulck\source\repos\ZooPark\ZooPark\bin\Debug\ZooPark.pdb
+C:\Users\dulck\source\repos\ZooPark\ZooPark\obj\Debug\ZooPark.csprojAssemblyReference.cache
+C:\Users\dulck\source\repos\ZooPark\ZooPark\obj\Debug\ZooPark.Form1.resources
+C:\Users\dulck\source\repos\ZooPark\ZooPark\obj\Debug\ZooPark.Properties.Resources.resources
+C:\Users\dulck\source\repos\ZooPark\ZooPark\obj\Debug\ZooPark.csproj.GenerateResource.cache
+C:\Users\dulck\source\repos\ZooPark\ZooPark\obj\Debug\ZooPark.csproj.CoreCompileInputs.cache
+C:\Users\dulck\source\repos\ZooPark\ZooPark\obj\Debug\ZooPark.exe
+C:\Users\dulck\source\repos\ZooPark\ZooPark\obj\Debug\ZooPark.pdb
+C:\Users\dulck\source\repos\ZooPark\ZooPark\obj\Debug\ZooPark.ZooForm.resources
+C:\Users\dulck\source\repos\ZooPark\ZooPark\obj\Debug\ZooPark.ZooInsertForm.resources
+C:\Users\dulck\source\repos\ZooPark\ZooPark\obj\Debug\ZooPark.ZooEditForm.resources
+C:\Users\dulck\source\repos\ZooPark\ZooPark\obj\Debug\ZooPark.EmployerForm.resources
+C:\Users\dulck\source\repos\ZooPark\ZooPark\obj\Debug\ZooPark.EmployerInsertForm.resources
+C:\Users\dulck\source\repos\ZooPark\ZooPark\obj\Debug\ZooPark.EmployerEditForm.resources
+C:\Users\dulck\source\repos\ZooPark\ZooPark\obj\Debug\ZooPark.AnimalForm.resources
